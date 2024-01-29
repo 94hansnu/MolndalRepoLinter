@@ -1,5 +1,5 @@
 # MolndalRepoLinter
 ## My second title
 Lorem Upsum
-###My third title
-test Loren
+### My third title
+Third title test Loren
